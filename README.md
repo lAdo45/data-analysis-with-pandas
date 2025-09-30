@@ -85,6 +85,7 @@ Insight: AAA Batteries and Lightning Cables were top sellers, often purchased al
 Chart: Scatter plot (Price vs Quantity Ordered)
 
 Insight: Cheaper products had higher order quantities, while expensive ones (MacBook Pro, iPhones) sold less frequently but contributed more to revenue.
+
 <img width="640" height="480" alt="Quantity of Products Ordered and thei price" src="https://github.com/user-attachments/assets/b750499e-9001-43a7-ad0d-a35acb76a49e" />
 
 
